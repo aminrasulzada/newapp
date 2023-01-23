@@ -1,0 +1,218 @@
+[22-Nov-2018 07:45:57 Europe/Helsinki] PHP Warning:  ini_set() has been disabled for security reasons in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/index.php on line 70
+[22-Nov-2018 11:15:57 Asia/Kolkata] PHP Fatal error:  Call to undefined function mysqli_init() in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[22-Nov-2018 07:48:32 Europe/Helsinki] PHP Warning:  ini_set() has been disabled for security reasons in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/index.php on line 70
+[22-Nov-2018 07:49:24 Europe/Helsinki] PHP Warning:  ini_set() has been disabled for security reasons in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/index.php on line 70
+[22-Nov-2018 07:49:31 Europe/Helsinki] PHP Warning:  ini_set() has been disabled for security reasons in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/index.php on line 70
+[22-Nov-2018 07:50:06 Europe/Helsinki] PHP Warning:  ini_set() has been disabled for security reasons in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/index.php on line 70
+[22-Nov-2018 07:51:33 Europe/Helsinki] PHP Warning:  ini_set() has been disabled for security reasons in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/index.php on line 70
+[22-Nov-2018 07:51:43 Europe/Helsinki] PHP Warning:  ini_set() has been disabled for security reasons in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/index.php on line 70
+[22-Nov-2018 07:52:07 Europe/Helsinki] PHP Warning:  ini_set() has been disabled for security reasons in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/index.php on line 70
+[22-Nov-2018 07:52:26 Europe/Helsinki] PHP Warning:  ini_set() has been disabled for security reasons in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/index.php on line 70
+[22-Nov-2018 07:53:19 Europe/Helsinki] PHP Warning:  ini_set() has been disabled for security reasons in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/index.php on line 75
+[22-Nov-2018 07:53:22 Europe/Helsinki] PHP Warning:  ini_set() has been disabled for security reasons in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/index.php on line 75
+[22-Nov-2018 07:54:28 Europe/Helsinki] PHP Warning:  ini_set() has been disabled for security reasons in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/index.php on line 76
+[22-Nov-2018 07:55:12 Europe/Helsinki] PHP Warning:  ini_set() has been disabled for security reasons in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/index.php on line 76
+[22-Nov-2018 07:55:20 Europe/Helsinki] PHP Warning:  ini_set() has been disabled for security reasons in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/index.php on line 76
+[22-Nov-2018 07:55:41 Europe/Helsinki] PHP Warning:  ini_set() has been disabled for security reasons in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/index.php on line 76
+[22-Nov-2018 07:55:42 Europe/Helsinki] PHP Warning:  ini_set() has been disabled for security reasons in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/index.php on line 76
+[22-Nov-2018 07:55:44 Europe/Helsinki] PHP Warning:  ini_set() has been disabled for security reasons in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/index.php on line 76
+[22-Nov-2018 07:56:17 Europe/Helsinki] PHP Warning:  ini_set() has been disabled for security reasons in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/index.php on line 76
+[22-Nov-2018 07:56:19 Europe/Helsinki] PHP Warning:  ini_set() has been disabled for security reasons in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/index.php on line 76
+[22-Nov-2018 07:56:20 Europe/Helsinki] PHP Warning:  ini_set() has been disabled for security reasons in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/index.php on line 76
+[22-Nov-2018 07:56:22 Europe/Helsinki] PHP Warning:  ini_set() has been disabled for security reasons in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/index.php on line 76
+[22-Nov-2018 08:00:01 Europe/Helsinki] PHP Warning:  ini_set() has been disabled for security reasons in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/index.php on line 76
+[22-Nov-2018 08:00:20 Europe/Helsinki] PHP Warning:  ini_set() has been disabled for security reasons in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/index.php on line 76
+[22-Nov-2018 08:00:26 Europe/Helsinki] PHP Warning:  ini_set() has been disabled for security reasons in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/index.php on line 76
+[22-Nov-2018 08:01:58 Europe/Helsinki] PHP Warning:  ini_set() has been disabled for security reasons in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/index.php on line 76
+[22-Nov-2018 08:35:06 Europe/Helsinki] PHP Warning:  ini_set() has been disabled for security reasons in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/index.php on line 76
+[22-Nov-2018 08:38:36 Europe/Helsinki] PHP Warning:  ini_set() has been disabled for security reasons in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/index.php on line 76
+[22-Nov-2018 08:38:46 Europe/Helsinki] PHP Warning:  ini_set() has been disabled for security reasons in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/index.php on line 76
+[22-Nov-2018 08:40:26 Europe/Helsinki] PHP Warning:  ini_set() has been disabled for security reasons in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/index.php on line 76
+[22-Nov-2018 08:40:32 Europe/Helsinki] PHP Warning:  ini_set() has been disabled for security reasons in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/index.php on line 76
+[22-Nov-2018 08:43:56 Europe/Helsinki] PHP Warning:  ini_set() has been disabled for security reasons in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/index.php on line 77
+[22-Nov-2018 08:44:00 Europe/Helsinki] PHP Warning:  ini_set() has been disabled for security reasons in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/index.php on line 77
+[22-Nov-2018 08:44:36 Europe/Helsinki] PHP Warning:  ini_set() has been disabled for security reasons in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/index.php on line 77
+[22-Nov-2018 08:44:36 Europe/Helsinki] PHP Warning:  ini_set() has been disabled for security reasons in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/index.php on line 77
+[22-Nov-2018 08:48:04 Europe/Helsinki] PHP Warning:  ini_set() has been disabled for security reasons in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/index.php on line 77
+[22-Nov-2018 08:48:05 Europe/Helsinki] PHP Warning:  ini_set() has been disabled for security reasons in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/index.php on line 77
+[22-Nov-2018 08:48:10 Europe/Helsinki] PHP Warning:  ini_set() has been disabled for security reasons in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/index.php on line 77
+[22-Nov-2018 08:49:09 Europe/Helsinki] PHP Warning:  ini_set() has been disabled for security reasons in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/index.php on line 77
+[22-Nov-2018 08:50:39 Europe/Helsinki] PHP Warning:  ini_set() has been disabled for security reasons in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/index.php on line 77
+[22-Nov-2018 09:36:16 Europe/Helsinki] PHP Warning:  ini_set() has been disabled for security reasons in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/index.php on line 77
+[22-Nov-2018 09:46:00 Europe/Helsinki] PHP Warning:  ini_set() has been disabled for security reasons in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/index.php on line 77
+[13-Mar-2019 16:56:20 Asia/Kolkata] PHP Fatal error:  require(): Failed opening required 'Base_Controller.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/admin/Misc.php on line 3
+[13-Mar-2019 16:56:23 Asia/Kolkata] PHP Fatal error:  require(): Failed opening required 'Base_Controller.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/admin/Misc.php on line 3
+[13-Mar-2019 16:56:59 Asia/Kolkata] PHP Fatal error:  require(): Failed opening required '../Base_Controller.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/admin/Misc.php on line 3
+[14-Mar-2019 15:49:06 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/attendance.php on line 120
+[14-Mar-2019 15:49:09 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/attendance.php on line 120
+[16-Mar-2019 15:16:05 Asia/Kolkata] PHP Fatal error:  Call to undefined method User_model::update_Password() in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/admin/User.php on line 61
+[16-Mar-2019 15:16:58 Asia/Kolkata] PHP Fatal error:  Call to undefined method User_model::update_Password() in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/admin/User.php on line 61
+[18-Mar-2019 12:30:39 Asia/Kolkata] PHP Fatal error:  Call to a member function userdata() on null in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/HelpDesk.php on line 9
+[18-Mar-2019 12:30:43 Asia/Kolkata] PHP Fatal error:  Call to a member function userdata() on null in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/HelpDesk.php on line 9
+[18-Mar-2019 12:31:26 Asia/Kolkata] PHP Fatal error:  Call to a member function userdata() on null in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/HelpDesk.php on line 9
+[18-Mar-2019 12:32:14 Asia/Kolkata] PHP Fatal error:  Call to a member function userdata() on null in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/HelpDesk.php on line 9
+[18-Mar-2019 15:47:03 Asia/Kolkata] PHP Fatal error:  Call to undefined method Helpdesk_model::get_answers() in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/HelpDesk.php on line 29
+[18-Mar-2019 15:47:11 Asia/Kolkata] PHP Fatal error:  Call to undefined method Helpdesk_model::get_answers() in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/HelpDesk.php on line 29
+[18-Mar-2019 15:47:14 Asia/Kolkata] PHP Fatal error:  Call to undefined method Helpdesk_model::get_answers() in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/HelpDesk.php on line 29
+[27-Mar-2019 15:07:32 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/attendance.php on line 121
+[28-Mar-2019 16:43:46 Asia/Kolkata] PHP Fatal error:  Call to a member function result() on boolean in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/models/Employee_model.php on line 15
+[28-Mar-2019 18:38:00 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/admin/employee/manage-employee.php on line 71
+[28-Mar-2019 18:38:08 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/admin/employee/manage-employee.php on line 71
+[28-Mar-2019 18:42:34 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/admin/employee/manage-employee.php on line 71
+[28-Mar-2019 18:45:16 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/admin/employee/manage-employee.php on line 71
+[29-Mar-2019 12:39:47 Asia/Kolkata] PHP Fatal error:  Call to a member function result() on boolean in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/models/Employee_model.php on line 20
+[29-Mar-2019 12:39:50 Asia/Kolkata] PHP Fatal error:  Call to a member function result() on boolean in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/models/Employee_model.php on line 20
+[29-Mar-2019 12:40:40 Asia/Kolkata] PHP Fatal error:  Call to a member function result() on boolean in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/models/Employee_model.php on line 20
+[29-Mar-2019 12:40:44 Asia/Kolkata] PHP Fatal error:  Call to a member function result() on boolean in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/models/Employee_model.php on line 20
+[29-Mar-2019 15:52:01 Asia/Kolkata] PHP Fatal error:  Call to a member function result() on boolean in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/models/User_model.php on line 18
+[29-Mar-2019 15:52:17 Asia/Kolkata] PHP Fatal error:  Call to a member function result() on boolean in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/models/User_model.php on line 18
+[29-Mar-2019 15:53:19 Asia/Kolkata] PHP Fatal error:  Call to a member function result() on boolean in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/models/User_model.php on line 17
+[29-Mar-2019 15:53:27 Asia/Kolkata] PHP Fatal error:  Call to a member function result() on boolean in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/models/User_model.php on line 17
+[29-Mar-2019 18:29:48 Asia/Kolkata] PHP Fatal error:  Call to a member function selectRecord() on null in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/admin/Employee.php on line 240
+[29-Mar-2019 18:32:17 Asia/Kolkata] PHP Fatal error:  Call to a member function selectRecord() on null in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/admin/Employee.php on line 240
+[29-Mar-2019 18:32:40 Asia/Kolkata] PHP Fatal error:  Call to a member function selectRecord() on null in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/admin/Employee.php on line 240
+[30-Mar-2019 18:22:32 Asia/Kolkata] PHP Fatal error:  Call to a member function selectRecord() on null in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/admin/Employee.php on line 240
+[30-Mar-2019 18:23:11 Asia/Kolkata] PHP Fatal error:  Call to a member function selectRecord() on null in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/admin/Employee.php on line 240
+[30-Mar-2019 18:26:48 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/admin/employee/attendance.php on line 66
+[30-Mar-2019 18:27:00 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/admin/employee/attendance.php on line 66
+[30-Mar-2019 18:29:09 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/admin/employee/attendance.php on line 66
+[30-Mar-2019 19:25:44 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/admin/employee/attendance.php on line 66
+[31-Mar-2019 15:30:47 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 533987328 bytes) in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/admin/dashboard.php on line 149
+[03-Apr-2019 14:18:03 Europe/Helsinki] PHP Parse error:  syntax error, unexpected ':' in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/config/constants.php on line 97
+[03-Apr-2019 14:18:51 Europe/Helsinki] PHP Parse error:  syntax error, unexpected ':' in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/config/constants.php on line 97
+[03-Apr-2019 17:15:56 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/attendance.php on line 130
+[03-Apr-2019 17:31:19 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/attendance.php on line 141
+[03-Apr-2019 17:58:54 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 1000 seconds exceeded in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/system/core/Common.php on line 621
+[03-Apr-2019 19:29:27 Asia/Kolkata] PHP Fatal error:  Call to undefined function convert_to_md5() in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/admin/Admin_user.php on line 19
+[03-Apr-2019 19:32:00 Asia/Kolkata] PHP Fatal error:  Call to undefined function convert_to_md5() in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/admin/Admin_user.php on line 19
+[03-Apr-2019 19:37:23 Asia/Kolkata] PHP Fatal error:  Call to undefined function convert_to_md5() in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/admin/Admin_user.php on line 18
+[03-Apr-2019 19:39:04 Asia/Kolkata] PHP Fatal error:  Call to undefined function convert_to_md5() in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/admin/Admin_user.php on line 18
+[03-Apr-2019 19:40:40 Asia/Kolkata] PHP Fatal error:  Call to undefined function convert_to_md5() in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/admin/Admin_user.php on line 18
+[04-Apr-2019 11:54:03 Asia/Kolkata] PHP Fatal error:  Call to a member function result() on boolean in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/models/Base_model.php on line 56
+[04-Apr-2019 12:48:17 Asia/Kolkata] PHP Fatal error:  Call to a member function result() on boolean in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/models/Base_model.php on line 56
+[04-Apr-2019 12:51:48 Asia/Kolkata] PHP Fatal error:  Call to a member function result() on boolean in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/models/Base_model.php on line 56
+[04-Apr-2019 12:51:52 Asia/Kolkata] PHP Fatal error:  Call to a member function result() on boolean in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/models/Base_model.php on line 56
+[04-Apr-2019 12:54:47 Asia/Kolkata] PHP Fatal error:  Call to a member function result() on boolean in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/models/Base_model.php on line 56
+[04-Apr-2019 13:09:35 Asia/Kolkata] PHP Fatal error:  Call to undefined function view() in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/admin/Update_AdminUser.php on line 15
+[04-Apr-2019 13:14:05 Asia/Kolkata] PHP Fatal error:  Call to undefined function view() in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/admin/Update_AdminUser.php on line 15
+[04-Apr-2019 15:07:51 Asia/Kolkata] PHP Fatal error:  Function name must be a string in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/admin/edit-admin-user.php on line 24
+[04-Apr-2019 15:08:44 Asia/Kolkata] PHP Fatal error:  Function name must be a string in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/admin/edit-admin-user.php on line 24
+[04-Apr-2019 15:09:24 Asia/Kolkata] PHP Fatal error:  Function name must be a string in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/admin/edit-admin-user.php on line 24
+[04-Apr-2019 15:09:52 Asia/Kolkata] PHP Fatal error:  Function name must be a string in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/admin/edit-admin-user.php on line 24
+[04-Apr-2019 15:10:44 Asia/Kolkata] PHP Fatal error:  Function name must be a string in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/admin/edit-admin-user.php on line 24
+[04-Apr-2019 15:10:54 Asia/Kolkata] PHP Fatal error:  Function name must be a string in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/admin/edit-admin-user.php on line 24
+[04-Apr-2019 15:10:59 Asia/Kolkata] PHP Fatal error:  Function name must be a string in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/admin/edit-admin-user.php on line 24
+[04-Apr-2019 15:11:03 Asia/Kolkata] PHP Fatal error:  Function name must be a string in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/admin/edit-admin-user.php on line 24
+[04-Apr-2019 15:11:30 Asia/Kolkata] PHP Fatal error:  Function name must be a string in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/admin/edit-admin-user.php on line 24
+[04-Apr-2019 15:15:59 Asia/Kolkata] PHP Fatal error:  Function name must be a string in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/admin/edit-admin-user.php on line 24
+[04-Apr-2019 15:22:03 Asia/Kolkata] PHP Fatal error:  Function name must be a string in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/admin/edit-admin-user.php on line 24
+[06-Apr-2019 19:07:41 Asia/Kolkata] PHP Fatal error:  Call to undefined method Helpdesk_model::get_answers() in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/HelpDesk.php on line 30
+[06-Apr-2019 19:35:02 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 130968 bytes) in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/system/core/Common.php on line 85
+[06-Apr-2019 19:35:53 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 130968 bytes) in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/system/core/Common.php on line 85
+[08-Apr-2019 11:51:31 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/help-desk/hd-details.php on line 70
+[08-Apr-2019 11:55:53 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/help-desk/hd-details.php on line 70
+[08-Apr-2019 11:56:54 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/help-desk/hd-details.php on line 70
+[08-Apr-2019 12:45:02 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/help-desk/hd-details.php on line 70
+[08-Apr-2019 13:33:16 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/help-desk/hd-details.php on line 71
+[08-Apr-2019 13:36:18 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/help-desk/hd-details.php on line 70
+[08-Apr-2019 13:36:27 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/help-desk/hd-details.php on line 70
+[08-Apr-2019 15:13:38 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/help-desk/hd-details.php on line 170
+[08-Apr-2019 15:13:40 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/help-desk/hd-details.php on line 170
+[08-Apr-2019 15:16:13 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/help-desk/hd-details.php on line 173
+[08-Apr-2019 15:16:14 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/help-desk/hd-details.php on line 173
+[08-Apr-2019 15:18:06 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/help-desk/hd-details.php on line 173
+[08-Apr-2019 15:18:37 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/help-desk/hd-details.php on line 173
+[08-Apr-2019 15:20:49 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/help-desk/hd-details.php on line 164
+[08-Apr-2019 17:56:20 Asia/Kolkata] PHP Fatal error:  Using $this when not in object context in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/help-desk/hd-details.php on line 91
+[08-Apr-2019 17:56:29 Asia/Kolkata] PHP Fatal error:  Using $this when not in object context in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/help-desk/hd-details.php on line 91
+[08-Apr-2019 18:24:32 Asia/Kolkata] PHP Fatal error:  Using $this when not in object context in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/help-desk/hd-details.php on line 91
+[08-Apr-2019 18:25:26 Asia/Kolkata] PHP Fatal error:  Using $this when not in object context in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/help-desk/hd-details.php on line 91
+[08-Apr-2019 18:25:29 Asia/Kolkata] PHP Fatal error:  Using $this when not in object context in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/help-desk/hd-details.php on line 91
+[08-Apr-2019 18:25:37 Asia/Kolkata] PHP Fatal error:  Using $this when not in object context in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/help-desk/hd-details.php on line 91
+[08-Apr-2019 18:40:10 Asia/Kolkata] PHP Fatal error:  Using $this when not in object context in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/help-desk/hd-details.php on line 93
+[08-Apr-2019 18:40:55 Asia/Kolkata] PHP Fatal error:  Using $this when not in object context in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/help-desk/hd-details.php on line 94
+[08-Apr-2019 18:42:23 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/help-desk/hd-details.php on line 130
+[08-Apr-2019 18:42:25 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/help-desk/hd-details.php on line 130
+[11-Apr-2019 14:07:10 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/admin/edit-quiz-question.php on line 126
+[11-Apr-2019 14:07:22 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/admin/edit-quiz-question.php on line 126
+[11-Apr-2019 14:08:10 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/admin/edit-quiz-question.php on line 126
+[11-Apr-2019 14:08:15 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/admin/edit-quiz-question.php on line 126
+[11-Apr-2019 17:56:53 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/admin/Base_Controller.php on line 45
+[11-Apr-2019 17:57:10 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/admin/Base_Controller.php on line 45
+[11-Apr-2019 17:57:44 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/admin/Base_Controller.php on line 45
+[12-Apr-2019 16:57:36 Asia/Kolkata] PHP Fatal error:  Call to undefined method stdClass::MONTH() in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/attendance.php on line 10
+[12-Apr-2019 16:57:44 Asia/Kolkata] PHP Fatal error:  Call to undefined method stdClass::MONTH() in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/attendance.php on line 10
+[12-Apr-2019 16:58:12 Asia/Kolkata] PHP Fatal error:  Call to undefined function MONTH() in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/attendance.php on line 10
+[12-Apr-2019 16:58:18 Asia/Kolkata] PHP Fatal error:  Call to undefined function MONTH() in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/attendance.php on line 10
+[12-Apr-2019 16:59:36 Asia/Kolkata] PHP Fatal error:  Call to undefined function MONTH() in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/attendance.php on line 11
+[13-Apr-2019 17:14:00 Asia/Kolkata] PHP Fatal error:  Call to a member function insertRecord() on null in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/admin/Add_Holiday.php on line 24
+[13-Apr-2019 17:14:03 Asia/Kolkata] PHP Fatal error:  Call to a member function insertRecord() on null in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/admin/Add_Holiday.php on line 24
+[13-Apr-2019 17:15:12 Asia/Kolkata] PHP Fatal error:  Call to a member function insertRecord() on null in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/admin/Add_Holiday.php on line 24
+[13-Apr-2019 17:16:03 Asia/Kolkata] PHP Fatal error:  Call to a member function insertRecord() on null in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/admin/Add_Holiday.php on line 24
+[13-Apr-2019 17:41:56 Asia/Kolkata] PHP Fatal error:  Call to a member function insertRecord() on null in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/admin/Add_Holiday.php on line 25
+[13-Apr-2019 17:42:17 Asia/Kolkata] PHP Fatal error:  Call to a member function insertRecord() on null in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/admin/Add_Holiday.php on line 25
+[13-Apr-2019 17:43:40 Asia/Kolkata] PHP Fatal error:  Call to a member function insertRecord() on null in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/admin/Add_Holiday.php on line 26
+[13-Apr-2019 17:44:17 Asia/Kolkata] PHP Fatal error:  Call to a member function insertRecord() on null in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/admin/Add_Holiday.php on line 26
+[13-Apr-2019 17:46:54 Asia/Kolkata] PHP Fatal error:  Call to a member function insertRecord() on null in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/admin/Add_Holiday.php on line 26
+[18-Apr-2019 19:11:13 Asia/Kolkata] PHP Fatal error:  Call to undefined function view() in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/admin/Misc.php on line 69
+[18-Apr-2019 19:20:04 Asia/Kolkata] PHP Fatal error:  Call to undefined function view() in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/admin/Misc.php on line 71
+[18-Apr-2019 19:20:11 Asia/Kolkata] PHP Fatal error:  Call to undefined function view() in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/admin/Misc.php on line 71
+[20-Apr-2019 11:11:18 Asia/Kolkata] PHP Fatal error:  Call to undefined function view() in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/admin/Misc.php on line 71
+[20-Apr-2019 17:25:07 Asia/Kolkata] PHP Fatal error:  Call to undefined function view() in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/admin/Misc.php on line 71
+[25-Apr-2019 12:23:41 Asia/Kolkata] PHP Fatal error:  Call to undefined function CURDATE() in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/Common.php on line 79
+[25-Apr-2019 12:25:09 Asia/Kolkata] PHP Fatal error:  Call to undefined function NOW() in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/Common.php on line 79
+[25-Apr-2019 12:26:58 Asia/Kolkata] PHP Fatal error:  Call to undefined function CURDATE() in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/Common.php on line 79
+[25-Apr-2019 12:31:24 Asia/Kolkata] PHP Fatal error:  Call to undefined function NOW() in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/Common.php on line 79
+[25-Apr-2019 12:31:48 Asia/Kolkata] PHP Fatal error:  Call to undefined function NOW() in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/Common.php on line 79
+[25-Apr-2019 12:39:11 Asia/Kolkata] PHP Fatal error:  Call to undefined function NOW() in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/Common.php on line 79
+[25-Apr-2019 12:40:00 Asia/Kolkata] PHP Fatal error:  Call to undefined function CURRENT_DATE() in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/Common.php on line 79
+[25-Apr-2019 12:41:14 Asia/Kolkata] PHP Fatal error:  Call to undefined function CURDATE() in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/Common.php on line 79
+[25-Apr-2019 14:00:03 Asia/Kolkata] PHP Fatal error:  Call to a member function selectRecord() on null in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/admin/User.php on line 89
+[25-Apr-2019 14:00:05 Asia/Kolkata] PHP Fatal error:  Call to a member function selectRecord() on null in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/admin/User.php on line 89
+[27-Apr-2019 11:58:24 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/admin/news-feed.php on line 25
+[27-Apr-2019 15:34:23 Asia/Kolkata] PHP Fatal error:  Call to undefined method Common::unset() in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/Common.php on line 204
+[27-Apr-2019 15:36:30 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_Form_validation::clear_field_data() in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/Common.php on line 204
+[27-Apr-2019 15:36:53 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_Form_validation::clear_post_data() in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/Common.php on line 204
+[27-Apr-2019 15:43:33 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_Form_validation::clear_field_data() in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/Common.php on line 204
+[27-Apr-2019 15:44:15 Asia/Kolkata] PHP Fatal error:  Cannot access protected property CI_Form_validation::$_field_data in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/Common.php on line 204
+[30-Apr-2019 12:13:17 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/admin/employee/leave-details.php on line 126
+[30-Apr-2019 12:13:37 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/admin/employee/leave-details.php on line 126
+[30-Apr-2019 12:15:42 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?>' in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/admin/employee/leave-details.php on line 126
+[30-Apr-2019 12:15:44 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?>' in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/admin/employee/leave-details.php on line 126
+[01-May-2019 17:43:05 Asia/Kolkata] PHP Fatal error:  require_once(): Failed opening required '/home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/third_party/smtpmail/class.phpmailer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/Common.php on line 400
+[08-May-2019 10:23:25 Asia/Kolkata] PHP Fatal error:  Call to undefined function view() in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/question-paper.php on line 8
+[08-May-2019 12:07:59 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_Session::user_data() in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/start-quiz.php on line 9
+[08-May-2019 12:08:18 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_Session::user_data() in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/start-quiz.php on line 9
+[08-May-2019 12:08:38 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_Session::user_data() in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/start-quiz.php on line 4
+[08-May-2019 12:08:41 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_Session::user_data() in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/start-quiz.php on line 4
+[10-May-2019 13:40:04 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'Default_ACTIVE_MODE' (T_STRING) in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/admin/Add_Quiz.php on line 77
+[10-May-2019 13:40:23 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'Default_ACTIVE_MODE' (T_STRING) in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/admin/Add_Quiz.php on line 77
+[10-May-2019 15:49:32 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/admin/show-quiz.php on line 128
+[10-May-2019 17:07:28 Asia/Kolkata] PHP Fatal error:  Call to undefined function post() in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/admin/Add_Quiz.php on line 56
+[10-May-2019 17:07:56 Asia/Kolkata] PHP Fatal error:  Call to undefined function post() in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/admin/Add_Quiz.php on line 56
+[10-May-2019 17:08:09 Asia/Kolkata] PHP Fatal error:  Call to undefined function post() in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/admin/Add_Quiz.php on line 56
+[14-May-2019 13:37:52 Asia/Kolkata] PHP Fatal error:  Class 'PHPMailer' not found in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/Common.php on line 358
+[14-May-2019 14:03:28 Asia/Kolkata] PHP Fatal error:  Class 'PHPMailer' not found in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/Common.php on line 345
+[14-May-2019 15:55:12 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$message1' (T_VARIABLE) in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/Common.php on line 310
+[14-May-2019 15:55:30 Asia/Kolkata] PHP Fatal error:  Class 'PHPMailer' not found in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/Common.php on line 336
+[14-May-2019 19:50:32 Asia/Kolkata] PHP Fatal error:  Call to undefined function now() in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/attendance.php on line 272
+[15-May-2019 12:33:31 Asia/Kolkata] PHP Fatal error:  Cannot use [] for reading in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/attendance.php on line 248
+[15-May-2019 12:33:39 Asia/Kolkata] PHP Fatal error:  Cannot use [] for reading in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/attendance.php on line 248
+[15-May-2019 12:43:41 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/attendance.php on line 413
+[15-May-2019 12:44:55 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/attendance.php on line 413
+[15-May-2019 12:46:16 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/attendance.php on line 413
+[15-May-2019 17:36:38 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/attendance.php on line 427
+[15-May-2019 17:37:44 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/attendance.php on line 427
+[15-May-2019 17:49:28 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?>' in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/attendance.php on line 307
+[18-May-2019 14:33:41 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL) in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/admin/employee/attendance.php on line 159
+[18-May-2019 14:37:26 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/admin/employee/attendance.php on line 159
+[20-May-2019 18:04:39 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::updateRecord() in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/models/Base_model.php on line 32
+[24-May-2019 12:56:26 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/views/admin/employee/leave-details.php on line 99
+[24-May-2019 15:57:13 Asia/Kolkata] PHP Fatal error:  Call to undefined function view() in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/admin/Misc.php on line 253
+[24-May-2019 15:57:25 Asia/Kolkata] PHP Fatal error:  Call to undefined function view() in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/admin/Misc.php on line 253
+[24-May-2019 15:58:48 Asia/Kolkata] PHP Fatal error:  Call to undefined function view() in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/admin/Misc.php on line 253
+[24-May-2019 15:59:35 Asia/Kolkata] PHP Fatal error:  Call to undefined function view() in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/admin/Misc.php on line 253
+[24-May-2019 15:59:46 Asia/Kolkata] PHP Fatal error:  Call to undefined function view() in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/admin/Misc.php on line 253
+[24-May-2019 15:59:55 Asia/Kolkata] PHP Fatal error:  Call to undefined function view() in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/admin/Misc.php on line 253
+[24-May-2019 16:00:43 Asia/Kolkata] PHP Fatal error:  Call to undefined function view() in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/admin/Misc.php on line 253
+[24-May-2019 17:09:21 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'redirect' (T_STRING) in /home/oakyweadm2/demo.oakyweb.com/intranet-portal/application/controllers/admin/User.php on line 37

@@ -1,0 +1,379 @@
+/*custom font*/
+
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+
+/*basic reset*/
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {}
+
+
+.form-group.text-left {
+    margin-bottom: 20px;
+}
+
+.form-group small {
+    color: #6c757d;
+    font-size: 12px;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    background: #f1f1f1;
+}
+
+td,
+th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+.form-group label {
+    margin: 0 0 10px;
+    display: inline-block;
+    font-size: 14px;
+}
+
+.text-left {
+    text-align: left
+}
+
+.form-group input {
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    /* resize: none; */
+    border: 0;
+    border-radius: 8px;
+}
+
+
+/*form styles*/
+
+#msform {
+    width: 60vw;
+    margin: 50px auto;
+    text-align: center;
+    position: relative;
+    height: 457px;
+}
+
+hr {
+    margin: 20px 0;
+    border-color: #f1f1f147;
+    border-width: 1px;
+}
+
+#msform fieldset {
+    background: #fff;
+    border: 0 none;
+    border-radius: 3px;
+    box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.4);
+    padding: 20px 30px;
+    box-sizing: border-box;
+    width: 80%;
+    margin: 0 10%;
+    /*stacking fieldsets above each other*/
+    position: relative;
+}
+
+
+/*Hide all except first fieldset*/
+
+#msform fieldset:not(:first-of-type) {
+    display: none;
+}
+
+
+/*inputs*/
+
+#msform input,
+#msform textarea {
+    padding: 15px;
+    border-radius: 3px;
+    margin-bottom: 10px;
+    width: 100%;
+    box-sizing: border-box;
+    font-family: montserrat;
+    color: #2C3E50;
+    font-size: 13px;
+    background: #f1f1f1;
+}
+
+
+/*buttons*/
+
+#msform .action-button {
+    width: 100px;
+    background: #27AE60;
+    font-weight: bold;
+    color: white;
+    border: 0 none;
+    border-radius: 1px;
+    cursor: pointer;
+    padding: 10px 5px;
+    margin: 10px 5px;
+}
+
+#msform .action-button:hover,
+#msform .action-button:focus {
+    box-shadow: 0 0 0 2px white, 0 0 0 3px #27AE60;
+}
+
+
+/*headings*/
+
+.fs-title {
+    font-size: 15px;
+    text-transform: uppercase;
+    color: #2C3E50;
+    margin-bottom: 10px;
+}
+
+.fs-subtitle {
+    font-weight: normal;
+    font-size: 13px;
+    color: #666;
+    margin-bottom: 20px;
+}
+
+
+/*progressbar*/
+
+#progressbar {
+    margin-bottom: 30px;
+    overflow: hidden;
+    /*CSS counters to number the steps*/
+    counter-reset: step;
+}
+
+#progressbar li {
+    list-style-type: none;
+    color: white;
+    text-transform: uppercase;
+    font-size: 9px;
+    width: 33.33%;
+    float: left;
+    position: relative;
+}
+
+#progressbar li:before {
+    content: counter(step);
+    counter-increment: step;
+    width: 20px;
+    line-height: 20px;
+    display: block;
+    font-size: 10px;
+    color: #333;
+    background: white;
+    border-radius: 3px;
+    margin: 0 auto 5px auto;
+}
+
+
+/*progressbar connectors*/
+
+#progressbar li:after {
+    content: '';
+    width: 100%;
+    height: 2px;
+    background: white;
+    position: absolute;
+    left: -50%;
+    top: 9px;
+    z-index: -1;
+    /*put it behind the numbers*/
+}
+
+#progressbar li:first-child:after {
+    /*connector not needed before the first step*/
+    content: none;
+}
+
+
+/*marking active/completed steps green*/
+
+
+/*The number of the step and the connector before it = green*/
+
+#progressbar li.active:before,
+#progressbar li.active:after {
+    background: #27AE60;
+    color: white;
+}
+
+img {
+    max-width: 100%;
+    display: inline-block;
+}
+
+.brand-logo {
+    width: 40%
+}
+
+.radio {
+    display: inline-block;
+    padding-right: 20px;
+    font-size: 15px;
+    line-height: 40px;
+    cursor: pointer;
+}
+
+.radio:hover .inner {
+    -webkit-transform: scale(0.5);
+    transform: scale(0.5);
+    opacity: .5;
+}
+
+.radio input {
+    height: 1px;
+    width: 1px !important;
+    opacity: 0;
+}
+
+.radio input:checked+.outer .inner {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    opacity: 1;
+}
+
+.radio input:checked+.outer {
+    border: 3px solid #f08b3b;
+}
+
+.radio input:focus+.outer .inner {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    opacity: 1;
+    background-color: #e67012;
+}
+
+.radio .outer {
+    height: 15px;
+    width: 15px;
+    display: block;
+    float: left;
+    margin: 10px 9px 10px 10px;
+    border: 2px solid #0c70b4;
+    border-radius: 50%;
+    background-color: #fff;
+}
+
+.radio .inner {
+    transition: all 0.25s ease-in-out;
+    height: 11px;
+    width: 11px;
+    -webkit-transform: scale(0);
+    transform: scale(0);
+    display: block;
+    margin: -1px;
+    border-radius: 50%;
+    background-color: #f08b3b;
+    opacity: 0;
+}
+
+.quiz-row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-bottom: 10px;
+}
+
+.quiz-row>div {
+    flex: 1 0 50%;
+}
+
+.total-question td:nth-child(even) {
+    background: #222;
+    color: #fff;
+    text-align: center;
+}
+
+.total-question td:nth-child(odd) {
+    background: #ffffff;
+}
+
+h4.quiz-heading {
+    margin-bottom: 10px;
+    font-weight: 600;
+    font-size: 15px;
+}
+
+.second-heading {
+    background: #0070c0;
+    padding: 1em;
+    color: #fff;
+    font-weight: 700
+}
+
+.total-question td {
+    padding: 10px
+}
+
+.first-heading span {
+    background-color: #f07e04;
+    color: #fff;
+    padding: 5px;
+}
+
+span.heading-span {
+    background-color: #0070c0;
+    padding: 5px 20px;
+}
+
+.owl-carousel.owl-theme.owl-loaded.owl-drag {
+    width: 595px
+}
+
+.owl-theme h4 {
+    padding: 20px;
+    background: #FFC107;
+    margin: 10px 0 10px;
+}
+
+.owl-nav button span {
+    font-size: 24px;
+    background: #0070c0;
+    padding: 1px 10px;
+    display: inline-block;
+    border-radius: 50%;
+    color: #fff;
+    line-height: 23px;
+    height: 30px;
+    width: 30px;
+    box-sizing: border-box;
+    margin: 0 5px;
+}
+
+.owl-nav button:hover {
+    background: transparent
+}
+
+.owl-nav button:focus {
+    box-shadow: none;
+    outline: none;
+}
+
+.total-question {
+    margin: 20px 0 10px;
+}
+
+.btn-green {
+    background: #03a4c4;
+    color: #fff;
+    padding: 10px;
+    margin: 0px 0 10px;
+    display: inline-block;
+    font-size: 13px;
+    border-radius: 20px;
+    transition: all .3s
+}
+
+.btn-green:hover {
+    background: #004f5f
+}
